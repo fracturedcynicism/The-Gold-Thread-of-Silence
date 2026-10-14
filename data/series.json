@@ -1,37 +1,21 @@
 {
   "series": {
-    "title": "THE SANDHYA CYCLE",
+    "title": "The Gold Thread of Silence",
     "subtitle": "Fractured Cynicism",
-    "tagline": "A series spanning over timelines with noir , cosmic horror and cyberpunk",
-    "badge": "Series",
-    "synopsis": "A series spanning over timelines with noir , cosmic horror and cyberpunk",
+    "tagline": "Some break under silence. She wove hers into a weapon.",
+    "badge": "Novella",
+    "synopsis": "Evaluating a mute asylum inmate whose intricate gold-thread embroidery conceals a coded ledger of systemic abuse, forensic textile restorer Ishaan Roy discovers her silent tapestry holds the secret map to his own forgotten childhood.",
     "accentColor": "#C8832A",
     "accentDim": "#7A4E18"
   },
   "books": [
     {
       "id": 1,
-      "slug": "Sandhya cycle 1",
-      "title": "ASHES OF THE THIRTEENTH YEAR",
-      "subtitle": "Novel",
-      "file": "books/Sandhya cycle 1 ASHES OF THE THIRTEENTH YEAR.txt",
-      "setting": "Vedic India"
-    },
-        {
-      "id": 2,
-      "slug": "Sandhya cycle 2",
-      "title": "VENOM OF THE AGE",
-      "subtitle": "Novel",
-      "file": "books/Sandhya cycle 2 VENOM OF THE AGE.txt",
-      "setting": "Vedic India"
-    },
-        {
-      "id": 3,
-      "slug": "Sandhya cycle 3",
-      "title": "THE TORTOISE BACK",
-      "subtitle": "Novel",
-      "file": "books/Sandhya cycle 3 THE TORTOISE BACK.txt",
-      "setting": "Future"
+      "slug": "The Gold Thread of Silence",
+      "title": "The Gold Thread of Silence",
+      "subtitle": "Novella",
+      "file": "books/The Gold Thread of Silence.txt",
+      "setting": "Shimla, India"
     }
   ]
 }
